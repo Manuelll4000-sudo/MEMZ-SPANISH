@@ -1,12 +1,28 @@
-#MEMZ
+# 💥 MEMZ EN ESPAÑOL
 
-ESTE CODIGO FUE TRADUCIDO COMPLETAMENTE AL ESPAÑOL (payloads, destrucción, etc etc)
-DESCARGO DE RESPONSABILIDAD:
+---
 
-ESTE CODIGO FUE CREADO POR LEURAK (un desarrollador que habla inglés) YO SOLO TRADUCI CADA UNO DE SUS PAYLOADS Y MENSAJES AL ESPAÑOL
-YO NO ME HAGO RESPONSABLE DE LOS DAÑOS OCASIONADOS POR EJECUTAR ESTE VIRUS EN TU COMPUTADORA, TÚ DECIDISTE EJECUTARLO ASI QUE ES TU 
-PROBLEMA, yo solo soy un niño de 12 años entusiasta que le gusta meter mano a los codigos, asi que, no me llames, no me busques porque
-yo no tengo nada que ver con lo destructivo, solo soy un traductor.
+**ESTE CÓDIGO ES UNA TRADUCCIÓN COMPLETA DEL VIRUS MEMZ CREADO POR LEURAK.**  
+Todos los payloads, mensajes, y efectos destructivos han sido **traducidos al español** para mayor comprensión y documentación.
 
-Atentamente...
-manuelll4000.
+---
+
+## ⚠️ DESCARGO DE RESPONSABILIDAD
+
+**ESTE CÓDIGO FUE CREADO ORIGINALMENTE POR LEURAK**, un desarrollador que habla inglés.  
+**YO SOLO TRADUJE CADA UNO DE SUS PAYLOADS Y MENSAJES AL ESPAÑOL.**
+
+**NO ME HAGO RESPONSABLE DE LOS DAÑOS OCASIONADOS AL EJECUTAR ESTE VIRUS.**  
+Si decides ejecutarlo, **es tu decisión y tu responsabilidad**.  
+Yo solo soy **un niño de 12 años entusiasta** al que le gusta meter mano a los códigos.
+
+---
+
+**No me llames, no me busques, no me culpes.**  
+**YO NO TENGO NADA QUE VER CON EL COMPORTAMIENTO DESTRUCTIVO**, solo soy un traductor.
+
+---
+
+Atentamente,  
+**manuelll4000**
+
